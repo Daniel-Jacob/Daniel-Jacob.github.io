@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What drives me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Daniel Jacob. I am currently a Java/Kotlin Consultant at Conspect.
+My current project is working as a Kotlin software engineer at Ahold Delhaize, 
+working on the Appie app. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am born in Toronto, Canada and currently live in Amsterdam area, the Netherlands. 
+- I am married to my beautiful wife Dan. 
+- I am passionate about everything open-source. 
 
 What else do you need?
 
 ### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I have studied Sociology and a minor in programming at the university of Amsterdam. 
+- I like to touch different pieces of technology. 
+- I am passionate about mentoring and training junior developers. 
